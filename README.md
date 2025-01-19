@@ -17,8 +17,8 @@ Members of LLT
 - Aysha Henan
 - Cenna Joby
 - Fathimath Raniya pk
-- Adarsh
 - Indrajith M V
+- Adarsh
 - Ananya
 - Sreelakshmi S
 - Fadeela
@@ -97,31 +97,67 @@ Guidelines:
 
   - [x] Fahad
   - [x] Ameen
-  - [ ] Arya
-  - [ ] Aiswarya
+  - [x] Arya
+  - [x] Aiswarya
   - [ ] Manju
   - [x] Shadin
   - [ ] Sanjo
-  - [ ] Anupama
-  - [ ] Aysha Henan
-  - [ ] Cenna Joby
+  - [x] Anupama
+  - [x] Aysha Henan
+  - [x] Cenna Joby
   - [ ] Fathimath Raniya pk
   - [ ] Adarsh
   - [x] Indrajith M V
-  - [ ] Ananya
-  - [ ] Sreelakshmi S
-  - [ ] Fadeela
+  - [x] Ananya
+  - [x] Sreelakshmi S
+  - [x] Fadeela
   - [ ] Arjun
   - [ ] Sreya v
   - [x] Muflih
-  - [ ] Abhirami
-  - [ ] Abhinav
+  - [x] Abhirami
+  - [x] Abhinav
   - [x] Naseef NT
-  - [ ] Hima
+  - [x] Hima
   - [x] Rishi
 
 </details>
 
+### 3. Complete LLT CLI intro
+
+Guidelines:
+1. Open https://ranger-nf.github.io/lets-learn-together/
+2. Send the last screenshot to whatsapp group
+
+<details>
+  <summary>Checklist for members: </summary>
+
+  - [x] Fahad
+  - [x] Ameen
+  - [x] Arya
+  - [x] Aiswarya
+  - [ ] Manju
+  - [x] Shadin
+  - [ ] Sanjo
+  - [x] Anupama
+  - [x] Aysha Henan
+  - [x] Cenna Joby
+  - [ ] Fathimath Raniya pk
+  - [x] Adarsh
+  - [x] Indrajith M V
+  - [x] Ananya
+  - [x] Sreelakshmi S
+  - [x] Fadeela
+  - [ ] Arjun
+  - [ ] Sreya v
+  - [x] Muflih
+  - [x] Abhirami
+  - [x] Abhinav
+  - [x] Abhinav (IT)
+  - [x] Naseef NT
+  - [x] Hima
+  - [x] Rishi
+  - [x] Keerthi
+</details>
 
 ---
 
